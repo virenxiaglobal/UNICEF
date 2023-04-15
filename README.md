@@ -66,7 +66,7 @@ Once the virtual environment is activated, install the required libraries by run
 ```bash
 pip install -r requirements.txt
 ```
-This will install all the libraries listed in the requirements.txt file.
+This will install all the libraries listed in the requirements.txt file
 
 Once the dependencies are installed, you will need to set the virtual environment as the interpreter for your Jupyter notebook by running the following command:
 
