@@ -47,7 +47,7 @@ plt.rcParams['lines.linewidth'] = 2
 plt.rcParams['lines.markersize'] = 8
 colors = ['xkcd:pale orange', 'xkcd:sea blue', 'xkcd:pale red', 'xkcd:sage green', 'xkcd:terra cotta', 'xkcd:dull purple', 'xkcd:teal', 'xkcd: goldenrod', 'xkcd:cadet blue',
 'xkcd:scarlet']
-data = pd.read_csv('GlobalLandTemperaturesByMajorCity.csv'
+data = pd.read_csv('GlobalLandTemperaturesByMajorCity.csv')
 ```
 
 
